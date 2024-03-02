@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java,mysql,docker,kubernetes,redis,grafana,prometheus,kafka" />
+    <img src="https://skillicons.dev/icons?i=spring,java,mysql,docker,kubernetes,redis,grafana,prometheus,kafka,github,html,css,linux,aws" />
   </a>
 </p>
 
