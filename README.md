@@ -7,7 +7,7 @@
 - 👯 I’m easy to get along
 - 🥅 2021 Goals: Get used to Kubernetes
 - ⚡ Fun fact: I love listening to classic music
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <br />
 
