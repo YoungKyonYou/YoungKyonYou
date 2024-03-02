@@ -1,5 +1,5 @@
 ### Hi there, I'm YoungKyon You 👋
-
+https://github-readme-stats.vercel.app/api?username=youngkyonyou&show_icons=true
 ## I'm a Student, Developer, and Artist!!
 
 - 🔭 I'm running a blog https://youngkyonyou.github.io/ come and visit
