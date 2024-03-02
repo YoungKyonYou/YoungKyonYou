@@ -1,5 +1,5 @@
 ### Hi there, I'm YoungKyon You 👋
-![YoungKyon You's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngkyonyou&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngkyonyou\&layout=donut-vertical)](https://github.com/youngkyonyou/github-readme-stats)
+![YoungKyon You's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngkyonyou\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngkyonyou\&layout=donut-vertical)](https://github.com/youngkyonyou/github-readme-stats)
 
 ## I'm a Student, Developer, and Artist!!
 
