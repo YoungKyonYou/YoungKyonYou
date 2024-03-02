@@ -1,5 +1,8 @@
 ### Hi there, I'm YoungKyon You 👋
 ![YoungKyon You's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngkyonyou\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff) 
+
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngkyonyou)
 
 ## I'm a Student, Developer, and Artist!!
