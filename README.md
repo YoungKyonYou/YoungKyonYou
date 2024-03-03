@@ -5,6 +5,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngkyonyou)
 
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nick1324)](https://solved.ac/nick1324/)
+
 ## I'm a Student, Developer, and Artist!!
 
 - 🔭 I'm running a blog https://youngkyonyou.github.io/ come and visit
