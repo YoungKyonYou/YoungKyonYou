@@ -7,7 +7,7 @@
 
 
 ![YoungKyon You's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngkyonyou\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngkyonyou) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nick1324)](https://solved.ac/nick1324/)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nick1324)](https://solved.ac/nick1324/)
 
 ## I'm a Student, Developer, and Artist!!
 
