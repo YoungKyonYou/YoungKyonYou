@@ -5,6 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngkyonyou) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nick1324)](https://solved.ac/nick1324/)
 
+![svg](https://github.com/YoungKyonYou/YoungKyonYou/blob/main/profile-3d-contrib/profile-gitblock.svg)
+
 ## I'm a Student, Developer, and Artist!!
 
 - 🔭 I'm running a blog https://youngkyonyou.github.io/ come and visit
@@ -75,16 +77,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,postman,linux" />
   </a>
 </p>
-
-<div align="center">
-  <img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/>
-  <img height="20" src="https://visitcount.itsvg.in/api?id=youngkyonyou&icon=0&color=0" alt=""/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YoungKyonYou/youngkyonyou/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/YoungKyonYou/youngkyonyou/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
-  </picture>
-</div>
 
 <br />
 <br />
