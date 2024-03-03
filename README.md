@@ -15,7 +15,7 @@
 - 🔭 I'm running a blog https://youngkyonyou.github.io/ come and visit
 - 🌱 I’m currently learning Back-End, Front-End, and Kubernetes 🤣
 - 👯 I’m easy to get along
-- 🥅 2021 Goals: Get used to Kubernetes
+- 🥅 2024 Goals: Get used to Kubernetes
 - ⚡ Fun fact: I love listening to classic music
 
 <br />
